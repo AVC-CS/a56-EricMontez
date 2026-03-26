@@ -11,9 +11,9 @@ int main()
   	{
     	for (int j = N - 1 - i; j < N; j++)
     	{
-      	cout << i << "," << j << " ";
+      	cout << i << "," << j << endl;
     	}
-		cout << endl;
+		// cout << endl;
   	}
 	return 0;
 }
